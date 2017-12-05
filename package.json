@@ -18,6 +18,7 @@
   "homepage": "https://github.com/petefitz4/bamazon#readme",
   "dependencies": {
     "inquirer": "^4.0.1",
-    "mysql": "^2.15.0"
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
   }
 }
